@@ -21,7 +21,7 @@ It allows users to translate English text into multiple languages with a clean U
 
 - React (Frontend)
 - Tailwind CSS (Styling)
-- MyMemory Translation API
+- RapidAPI
 - Vite (Build tool)
 
 ---
@@ -31,17 +31,13 @@ It allows users to translate English text into multiple languages with a clean U
 ![App view](image.png)
 ---
 ### API Used
-- This project uses the MyMemory Translation API for demonstration purposes.
-- Note: This API is used for learning and demo.
-
-For production-level applications, more accurate APIs like Google Translate or Microsoft Translator can be used.
+- This project uses the RapidAPI (Deep Translate)..
 
 ### Future Improvements
 - Auto language detection
 - Voice input support
-- Dark mode toggle
 - Translation history
-- Better API integration
+- English written for non readable languages like korean, chinease, etc.
 
 ### Acknowledgements
 Built to explore:
